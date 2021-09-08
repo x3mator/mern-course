@@ -1,0 +1,6 @@
+{
+    "port": 5000,
+    "jwtSecret": "freakangel mern app",
+    "mongoUri": "mongodb+srv://anton:019283@cluster0.b5kgn.mongodb.net/app?retryWrites=true&w=majority",
+    "baseUrl": "http://localhost:5000"
+}
